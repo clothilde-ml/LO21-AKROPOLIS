@@ -8,6 +8,8 @@
 
 Ce projet est une implémentation en **C++** du jeu de société **Akropolis**, réalisée en groupe de 5 dans le cadre de l'UV LO21. L'application est jouable en mode console et conçue pour supporter une interface **Qt**, autour d'une architecture **MVC** (*Model-Controler-View*).
 
+Je me suis concentrée sur deux aspects du projet. D'un côté, la conception de l'architecture globale du projet (définition des couches MVC et gestion des dépendances entre composants). De l'autre, la modélisation de la grille hexagonale et son affichage en console. Extensible en hauteur et soumise à des contraintes de placement, elle devait rester lisible et naturelle pour le joueur malgré la complexité de sa structure. La réflexion autour de son affichage est documentée dans [`Explications-GrilleHexa-et-Affichage.pdf`](./Explications-GrilleHexa-et-Affichage.pdf).
+
 Ma contribution a porté sur la conception de l'architecture globale du projet (définition des couches, gestion des dépendances entre composants selon une architecture MVC) ainsi que sur l'implémentation de la grille hexagonale et de son affichage en console.
 
 ---
