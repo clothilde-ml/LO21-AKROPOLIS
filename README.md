@@ -14,4 +14,4 @@ Ma contribution a porté sur la conception de l'architecture globale du projet (
 
 ## Collaborateurs
 
-Projet réalisé avec Elsa Bazile, Axel Drux, Sofia Dulac-Belesgaa et Nyla Junk.
+*Projet réalisé avec Elsa Bazile, Axel Drux, Sofia Dulac-Belesgaa et Nyla Junk.*
